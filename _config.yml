@@ -17,7 +17,7 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nidhivijayan/nidhivijayan.github.io"
 
 #Remove if you don't like theme
-theme: jekyll-theme-midnight
+#theme: jekyll-theme-midnight
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
