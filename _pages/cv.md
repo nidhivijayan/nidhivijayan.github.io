@@ -17,63 +17,67 @@ Education
 
 Scientific Skills
 ======
-* Computational Biology
-•	16S rRNA and metagenomic data analysis: QIIME2, Anviio, R, DADA2, MEGAN, MGRAST, Kraken and others.
-•	Transcriptomics: ENSEMBL, Trinity, DESeq2, edgeR
-•	Single cell transcriptomics: Seurat, scanpy 
-•	QC and alignment tools (example): MultiQC, SAMstat, Bowtie, HTseq, STAR
-•	Analyzed metaproteome using Scaffold 
-•	Familiar with multi-omic correlation analysis of metallomics, metabolomics and metagenomics data with software such as Diablo. 
-•	Familiar with machine learning algorithms like Random Forests 
-•	Took courses on CHIP-seq and genome assembly
-•	Applied statistical analyses on genomic and transcriptomic data
-•	Routinely conducted analyses on High-Performance Computing (HPC) platforms using bash scripts
+#### Computational Biology ####
+* 16S rRNA and metagenomic data analysis: QIIME2, Anviio, R, DADA2, MEGAN, MGRAST, Kraken and others.
+* Transcriptomics: ENSEMBL, Trinity, DESeq2, edgeR
+* Single cell transcriptomics: Seurat, scanpy 
+* QC and alignment tools (example): MultiQC, SAMstat, Bowtie, HTseq, STAR
+* CHIP-seq
+* Analyzed metaproteome using Scaffold 
+* Familiar with multi-omic correlation analysis of metallomics, metabolomics and metagenomics data with software such as Diablo. 
+* Familiar with machine learning algorithms like Random Forests 
+* Applied statistical analyses on genomic and transcriptomic data
+* Routinely conducted analyses on High-Performance Computing (HPC) platforms using bash scripts
 
-* Microbiome
-•	Illumina metagenomic library preparation
-•	Culturing anaerobic bacteria
-•	Microbiological techniques (including outer membrane vesicle extractions, peptidoglycan isolation, biofilm measurements)
+#### Microbiome ####
+* Illumina metagenomic library preparation
+* Culturing anaerobic bacteria
+* Microbiological techniques (including outer membrane vesicle extractions, peptidoglycan isolation, biofilm measurements)
 
-* Microscopy
-•	Imaging Immunofluorescence (sections and whole mount cleared tissue), fluorescence in situ hybridization, hybridized chain reaction FISH with confocal microscope
+#### Microscopy ####
+* Imaging Immunofluorescence (sections and whole mount cleared tissue), fluorescence in situ hybridization, hybridized chain reaction FISH with confocal microscope
 
-*	Molecular Biology
-•	DNA, RNA, protein extractions
-•	Western Blot, RT-qPCR
+#### Molecular Biology ####
+* DNA, RNA, protein extractions
+* Western Blot, RT-qPCR
 
 Research experience	
 ======
-*	University of Connecticut, Storrs, CT
-	Graduate Research Assistant	      Aug 2018 – Present
-•	Characterized microbiome of symbiotic organ in 11 species of squids to identify patterns of ecological and evolutionary relationship with host
-•	Analyzed host transcriptome of multiple symbiotic organs in the Hawaiian bobtail squid to identify shared immune response to symbiotic bacteria
-•	Confirmed gene expression and protein production with RT-qPCR, western blots, and microscopy techniques like immunofluorescence and hybridized chain reaction- fluorescence in situ hybridization
-•	Described host proteome in squid macrophages under different conditions and observed cell movement under confocal microscope
-•	Characterized tunicate and seawater microbiomes to identify potential producers of bioactive secondary metabolites
-•	Characterized metaproteome in squid eggs
+#### University of Connecticut, Storrs, CT ####
+#### Graduate Research Assistant ####	
+* Characterized microbiome of symbiotic organ in 11 species of squids to identify patterns of ecological and evolutionary relationship with host
+* Analyzed host transcriptome of multiple symbiotic organs in the Hawaiian bobtail squid to identify shared immune response to symbiotic bacteria
+* Confirmed gene expression and protein production with RT-qPCR, western blots, and microscopy techniques like immunofluorescence and hybridized chain reaction- fluorescence in situ hybridization
+* Described host proteome in squid macrophages under different conditions and observed cell movement under confocal microscope
+* Characterized tunicate and seawater microbiomes to identify potential producers of bioactive secondary metabolites
+* Characterized metaproteome in squid eggs
 	
-* University of Hawaii, Honolulu, HI
-	Research Assistant	      Jan 2016 – March 2018
-•	Analyzed 16S rRNA microbiome of polychaete worms under different life history stages
-•	Compared 16S rRNA and metagenomes of biofilm and culturable bacteria from same biofilms
-•	Maintained lab animals, aquariums, managed lab resources, assisted post-docs
+#### University of Hawaii, Honolulu, HI ####
+#### Research Assistant	####      
+* Analyzed 16S rRNA microbiome of polychaete worms under different life history stages
+* Compared 16S rRNA and metagenomes of biofilm and culturable bacteria from same biofilms
+* Maintained lab animals, aquariums, managed lab resources, assisted post-docs
 
-* Nova Southeastern University, Fort Lauderdale, FL
-	Lab Assistant	      Aug 2014 – Dec 2015
-•	Setup Microbiology lab by preparing media and pouring plates, maintaining cultures
+#### Nova Southeastern University, Fort Lauderdale, FL ####
+#### Lab Assistant	  ####
+* Setup Microbiology lab by preparing media and pouring plates, maintaining cultures
 
-Research Assistant	Aug 2013 – Dec 2015
-•	Analyzed the 16S rRNA microbiome and bacterial structure with transmission electron microscopy in marine sponge under different environmental conditions
 
 Publications
 ======
-Vijayan N, McAnulty SJ, Sanchez G, Jolly J, Ikeda Y, Nishiguchi MK, Réveillac E, Gestal C, Spady BL, Li DH, Burford B, Kerwin AH, Nyholm SV. Evolutionary history influences the microbiomes of a female symbiotic reproductive organ in cephalopods. ASM Applied and Environmental Microbiology PMID 38315021
-Rogers T, Yalçın G, Brinseño J, Vijayan N, Nyholm SV, and Simakov D (2024) Gene modelling and annotation for the Hawaiiian bobtail squid Euprymna scolopes. Scientific data Jan 6;11(1):40. PMID 38184621 
-Baden T, Briseño J, Coffing G, Cohen-Bodénès S, Courtney A, Dickerson D, Dölen G, Fiorito G, Gestal C, Gustafson T, Heath-Heckman E, Vijayan N. et al (2023) Cephalopod-omics: emerging fields and technologies in cephalopod biology. Integrative and Comparative Biology, p.icad087. PMID 37370232
-Desplat Y, Warner JF, Blake EJ, Vijayan N, Cuvelier M, Blackwelder P and Lopez JV (2023) Morphological and transcriptional effects of crude oil and dispersant exposure on the marine sponge Cinachyrella alloclada. Science of The Total Environment, p.162832. PMID: 36924960
-Rouressol L, Briseno J, Vijayan N, Chen G.Y, Ritschard E, Sanchez G, Nyholm SV, McFall-Ngai MJ, and Simakov O (2023) Evolutionary Emergence of Novel Genomic Regulatory Regions Associated with Light Organ Development in the Bobtail Squid. iScience PMID: 37426346
-Vijayan N and Hadfield MG (2020) Bacteria known to induce settlement of larvae of Hydroides elegans are rare in natural inductive biofilm Aquatic Microbial Ecology. 84:31-42
-Vijayan N, Lema KA, Nedved BT and Hadfield MG (2019) Microbiome of the polychaete Hydroides elegans (Polychaeta: Serpulidae) across its life-history stages. Marine biology. 166:19
+* Vijayan N, McAnulty SJ, Sanchez G, Jolly J, Ikeda Y, Nishiguchi MK, Réveillac E, Gestal C, Spady BL, Li DH, Burford B, Kerwin AH, Nyholm SV. Evolutionary history influences the microbiomes of a female symbiotic reproductive organ in cephalopods. ASM Applied and Environmental Microbiology PMID 38315021
+  
+* Rogers T, Yalçın G, Brinseño J, Vijayan N, Nyholm SV, and Simakov D (2024) Gene modelling and annotation for the Hawaiiian bobtail squid Euprymna scolopes. Scientific data Jan 6;11(1):40. PMID 38184621
+  
+* Baden T, Briseño J, Coffing G, Cohen-Bodénès S, Courtney A, Dickerson D, Dölen G, Fiorito G, Gestal C, Gustafson T, Heath-Heckman E, Vijayan N. et al (2023) Cephalopod-omics: emerging fields and technologies in cephalopod biology. Integrative and Comparative Biology, p.icad087. PMID 37370232
+
+* Desplat Y, Warner JF, Blake EJ, Vijayan N, Cuvelier M, Blackwelder P and Lopez JV (2023) Morphological and transcriptional effects of crude oil and dispersant exposure on the marine sponge Cinachyrella alloclada. Science of The Total Environment, p.162832. PMID: 36924960
+  
+* Rouressol L, Briseno J, Vijayan N, Chen G.Y, Ritschard E, Sanchez G, Nyholm SV, McFall-Ngai MJ, and Simakov O (2023) Evolutionary Emergence of Novel Genomic Regulatory Regions Associated with Light Organ Development in the Bobtail Squid. iScience PMID: 37426346
+  
+* Vijayan N and Hadfield MG (2020) Bacteria known to induce settlement of larvae of Hydroides elegans are rare in natural inductive biofilm Aquatic Microbial Ecology. 84:31-42
+
+* Vijayan N, Lema KA, Nedved BT and Hadfield MG (2019) Microbiome of the polychaete Hydroides elegans (Polychaeta: Serpulidae) across its life-history stages. Marine biology. 166:19
   
 Presentations
 ======
@@ -97,15 +101,15 @@ UConn Graduate Seminar (2019): ‘Mama knows best’: The microbiome of female s
   
 Awards and Fellowship
 ======
-DEMI Pre-doctoral Fellowship 	                                    Spring 2024
-Pfizer Summer Fellowship in Molecular and Cell Biology 	          Summer 2023
-Outstanding TA award 	                                            Fall 2021-22 
-Doctoral Dissertation award 	                                    Summer 2022 
-Antonio and Marjorie Romano Graduate Education Fellowship 	      Summer 2022
-Cephalopod International Advisory Council Conference Travel Award 	     2022 
-Conference Participation Award 	                                         2021 
-Microbiome Fellowship 	                                                 2020 
-Demi Fellowship 	                                                 Summer 2020 
+DEMI Pre-doctoral Fellowship |	                                    Spring 2024
+Pfizer Summer Fellowship in Molecular and Cell Biology 	|          Summer 2023
+Outstanding TA award 	                   |                         Fall 2021-22 
+Doctoral Dissertation award 	                |                    Summer 2022 
+Antonio and Marjorie Romano Graduate Education Fellowship 	|      Summer 2022
+Cephalopod International Advisory Council Conference Travel Award |	     2022 
+Conference Participation Award 	                              |           2021 
+Microbiome Fellowship 	                                       |          2020 
+Demi Fellowship 	                                        |         Summer 2020 
 
 
   
