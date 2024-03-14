@@ -43,7 +43,7 @@ Scientific Skills
 
 Research experience	
 ======
-#### University of Connecticut, Storrs, CT ####
+### University of Connecticut, Storrs, CT ###
 #### Graduate Research Assistant ####	
 * Characterized microbiome of symbiotic organ in 11 species of squids to identify patterns of ecological and evolutionary relationship with host
 * Analyzed host transcriptome of multiple symbiotic organs in the Hawaiian bobtail squid to identify shared immune response to symbiotic bacteria
@@ -52,13 +52,13 @@ Research experience
 * Characterized tunicate and seawater microbiomes to identify potential producers of bioactive secondary metabolites
 * Characterized metaproteome in squid eggs
 	
-#### University of Hawaii, Honolulu, HI ####
+### University of Hawaii, Honolulu, HI ###
 #### Research Assistant	####      
 * Analyzed 16S rRNA microbiome of polychaete worms under different life history stages
 * Compared 16S rRNA and metagenomes of biofilm and culturable bacteria from same biofilms
 * Maintained lab animals, aquariums, managed lab resources, assisted post-docs
 
-#### Nova Southeastern University, Fort Lauderdale, FL ####
+### Nova Southeastern University, Fort Lauderdale, FL ###
 #### Lab Assistant	  ####
 * Setup Microbiology lab by preparing media and pouring plates, maintaining cultures
 
