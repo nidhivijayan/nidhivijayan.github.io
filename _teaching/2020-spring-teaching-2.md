@@ -2,7 +2,7 @@
 title: "Genetics MCB 2410"
 collection: teaching
 type: "Discussion"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2020-spring-teaching-1
 venue: "University of Connecticut, Department of Molecular and Cell Biology"
 date: 2020-01-01
 location: "City, Country"
