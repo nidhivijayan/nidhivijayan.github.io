@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "Genetics MCB 2410"
 collection: teaching
-type: "Workshop"
+type: "Discussion"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "University of Connecticut, Department of Molecular and Cell Biology"
+date: 2020-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course covered basic genetic concepts like cell division, central dogma, heredity
 
-Heading 1
-======
+I taught this course for two semesters in Spring 2020 and 2021 with Dr. Mark Longo
 
-Heading 2
-======
 
-Heading 3
-======
