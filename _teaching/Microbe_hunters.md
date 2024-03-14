@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 2"
+title: "Microbe Hunters"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/Microbe_hunters
@@ -13,3 +13,5 @@ I taught MCB 2612 for 5 years. This was an incredibly fun class where students i
 I am very proud of my students from this class and I guess if I had to post this anywhere, it should be my website.
 
 The comments I received from my students in my last class.
+
+![alt text](https://github.com/nidhivijayan/nidhivijayan.github.io/images/comments_mcb2612.png)
