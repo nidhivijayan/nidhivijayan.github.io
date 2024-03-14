@@ -12,6 +12,6 @@ I taught MCB 2612 for 5 years. This was an incredibly fun class where students i
 
 I am very proud of my students from this class and I guess if I had to post this anywhere, it should be my website.
 
-The comments I received from my students in my last class.
+The comments I received from my students in my last class. 
 
-![alt text](https://github.com/nidhivijayan/nidhivijayan.github.io/images/comments_mcb2612.png)
+<img src="https://github.com/nidhivijayan/nidhivijayan.github.io/blob/master/images/comments_mcb2612.png)https://github.com/nidhivijayan/nidhivijayan.github.io/blob/master/images/comments_mcb2612.png" width="10" height="20">
