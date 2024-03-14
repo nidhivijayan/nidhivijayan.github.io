@@ -17,7 +17,7 @@ Education
 
 Scientific Skills
 ======
-#### Computational Biology ####
+### Computational Biology ###
 * 16S rRNA and metagenomic data analysis: QIIME2, Anviio, R, DADA2, MEGAN, MGRAST, Kraken and others.
 * Transcriptomics: ENSEMBL, Trinity, DESeq2, edgeR
 * Single cell transcriptomics: Seurat, scanpy 
@@ -29,15 +29,15 @@ Scientific Skills
 * Applied statistical analyses on genomic and transcriptomic data
 * Routinely conducted analyses on High-Performance Computing (HPC) platforms using bash scripts
 
-#### Microbiome ####
+### Microbiome ###
 * Illumina metagenomic library preparation
 * Culturing anaerobic bacteria
 * Microbiological techniques (including outer membrane vesicle extractions, peptidoglycan isolation, biofilm measurements)
 
-#### Microscopy ####
+### Microscopy ###
 * Imaging Immunofluorescence (sections and whole mount cleared tissue), fluorescence in situ hybridization, hybridized chain reaction FISH with confocal microscope
 
-#### Molecular Biology ####
+### Molecular Biology ###
 * DNA, RNA, protein extractions
 * Western Blot, RT-qPCR
 
@@ -101,24 +101,17 @@ UConn Graduate Seminar (2019): ‘Mama knows best’: The microbiome of female s
   
 Awards and Fellowship
 ======
-
-DEMI Pre-doctoral Fellowship |          Spring 2024
-
-Pfizer Summer Fellowship in Molecular and Cell Biology |          Summer 2023
-
-Outstanding TA award |          Fall 2021-22 
-
-Doctoral Dissertation award |          Summer 2022
-
-Antonio and Marjorie Romano Graduate Education Fellowship |          Summer 2022
-
-Cephalopod International Advisory Council Conference Travel Award |          2022
-
-Conference Participation Award |          2021 
-
-Microbiome Fellowship |          2020 
-
-Demi Fellowship |         Summer 2020 
+| Award/Fellowship  | Term |
+| ------------- | ------------- |
+|DEMI Pre-doctoral Fellowship |          Spring 2024|
+|Pfizer Summer Fellowship in Molecular and Cell Biology |          Summer 2023|
+|Outstanding TA award |          Fall 2021-22 |
+|Doctoral Dissertation award |          Summer 2022|
+|Antonio and Marjorie Romano Graduate Education Fellowship |          Summer 2022|
+|Cephalopod International Advisory Council Conference Travel Award |          2022|
+|Conference Participation Award |          2021 |
+|Microbiome Fellowship |          2020 |
+|Demi Fellowship |         Summer 2020 |
 
 
   
