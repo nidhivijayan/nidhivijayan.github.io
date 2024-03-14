@@ -14,4 +14,4 @@ I am very proud of my students from this class and I guess if I had to post this
 
 The comments I received from my students in my last class. 
 
-<img src="https://github.com/nidhivijayan/nidhivijayan.github.io/blob/master/images/comments_mcb2612.png)https://github.com/nidhivijayan/nidhivijayan.github.io/blob/master/images/comments_mcb2612.png" width="10" height="20">
+# ![alt text](https://github.com/nidhivijayan/nidhivijayan.github.io/blob/master/images/comments_mcb2612.png)
