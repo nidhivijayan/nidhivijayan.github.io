@@ -101,17 +101,20 @@ UConn Graduate Seminar (2019): ‘Mama knows best’: The microbiome of female s
   
 Awards and Fellowship
 ======
-| Award/Fellowship  | Term |
-| ------------- | ------------- |
-|DEMI Pre-doctoral Fellowship |          Spring 2024|
-|Pfizer Summer Fellowship in Molecular and Cell Biology |          Summer 2023|
-|Outstanding TA award |          Fall 2021-22 |
-|Doctoral Dissertation award |          Summer 2022|
-|Antonio and Marjorie Romano Graduate Education Fellowship |          Summer 2022|
-|Cephalopod International Advisory Council Conference Travel Award |          2022|
-|Conference Participation Award |          2021 |
-|Microbiome Fellowship |          2020 |
-|Demi Fellowship |         Summer 2020 |
+<table>
+  <tr>
+    <th>Awards/Fellowship </th>
+    <th>Term</th>
+  </tr>
+  <tr>
+    <td>DEMI Pre-doctoral Fellowship</td>
+    <td>Spring 2024</td>
+  </tr>
+  <tr>
+    <td>Pfizer Summer Fellowship in Molecular and Cell Biology</td>
+    <td>Summer 2023</td>
+  </tr>
+</table>
 
 
   
