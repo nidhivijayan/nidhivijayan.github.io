@@ -17,7 +17,7 @@ Education
 
 Scientific Skills
 ======
-#### Computational Biology ####
+### Computational Biology ###
 * 16S rRNA and metagenomic data analysis: QIIME2, Anviio, R, DADA2, MEGAN, MGRAST, Kraken and others.
 * Transcriptomics: ENSEMBL, Trinity, DESeq2, edgeR
 * Single cell transcriptomics: Seurat, scanpy 
@@ -29,22 +29,22 @@ Scientific Skills
 * Applied statistical analyses on genomic and transcriptomic data
 * Routinely conducted analyses on High-Performance Computing (HPC) platforms using bash scripts
 
-#### Microbiome ####
+### Microbiome ###
 * Illumina metagenomic library preparation
 * Culturing anaerobic bacteria
 * Microbiological techniques (including outer membrane vesicle extractions, peptidoglycan isolation, biofilm measurements)
 
-#### Microscopy ####
+### Microscopy ###
 * Imaging Immunofluorescence (sections and whole mount cleared tissue), fluorescence in situ hybridization, hybridized chain reaction FISH with confocal microscope
 
-#### Molecular Biology ####
+### Molecular Biology ###
 * DNA, RNA, protein extractions
 * Western Blot, RT-qPCR
 
 Research experience	
 ======
-#### University of Connecticut, Storrs, CT ####
-#### Graduate Research Assistant ####	
+### University of Connecticut, Storrs, CT ###
+### Graduate Research Assistant ###	
 * Characterized microbiome of symbiotic organ in 11 species of squids to identify patterns of ecological and evolutionary relationship with host
 * Analyzed host transcriptome of multiple symbiotic organs in the Hawaiian bobtail squid to identify shared immune response to symbiotic bacteria
 * Confirmed gene expression and protein production with RT-qPCR, western blots, and microscopy techniques like immunofluorescence and hybridized chain reaction- fluorescence in situ hybridization
@@ -52,14 +52,14 @@ Research experience
 * Characterized tunicate and seawater microbiomes to identify potential producers of bioactive secondary metabolites
 * Characterized metaproteome in squid eggs
 	
-#### University of Hawaii, Honolulu, HI ####
-#### Research Assistant	####      
+### University of Hawaii, Honolulu, HI ###
+### Research Assistant	###      
 * Analyzed 16S rRNA microbiome of polychaete worms under different life history stages
 * Compared 16S rRNA and metagenomes of biofilm and culturable bacteria from same biofilms
 * Maintained lab animals, aquariums, managed lab resources, assisted post-docs
 
-#### Nova Southeastern University, Fort Lauderdale, FL ####
-#### Lab Assistant	  ####
+### Nova Southeastern University, Fort Lauderdale, FL ###
+### Lab Assistant	  ###
 * Setup Microbiology lab by preparing media and pouring plates, maintaining cultures
 
 
@@ -101,14 +101,22 @@ UConn Graduate Seminar (2019): ‘Mama knows best’: The microbiome of female s
   
 Awards and Fellowship
 ======
-DEMI Pre-doctoral Fellowship |	                                    Spring 2024
+DEMI Pre-doctoral Fellowship |	                                    Spring 2024 
+
 Pfizer Summer Fellowship in Molecular and Cell Biology 	|          Summer 2023
+
 Outstanding TA award 	                   |                         Fall 2021-22 
-Doctoral Dissertation award 	                |                    Summer 2022 
+
+Doctoral Dissertation award 	                |                    Summer 2022
+
 Antonio and Marjorie Romano Graduate Education Fellowship 	|      Summer 2022
+
 Cephalopod International Advisory Council Conference Travel Award |	     2022 
+
 Conference Participation Award 	                              |           2021 
+
 Microbiome Fellowship 	                                       |          2020 
+
 Demi Fellowship 	                                        |         Summer 2020 
 
 
