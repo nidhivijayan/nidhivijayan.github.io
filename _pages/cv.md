@@ -114,6 +114,26 @@ Awards and Fellowship
     <td>Pfizer Summer Fellowship in Molecular and Cell Biology</td>
     <td>Summer 2023</td>
   </tr>
+  <tr>
+    <td>Outstanding Teaching Assistant Award</td>
+    <td>Fall 2021-22</td>
+  </tr>
+  <tr>
+    <td>Doctoral Dissertation award </td>
+    <td>Summer 2022</td>
+  </tr>
+   <tr>
+ <td> Antonio and Marjorie Romano Graduate Education Fellowship </td>
+    <td>Summer 2022</td>
+   <tr>
+ <td> Cephalopod International Advisory Council Conference Travel Award </td>
+    <td>2022</td>
+   <tr>
+ <td> Conference Participation Award  </td>
+    <td>2021</td>
+   <tr>
+ <td> Microbiome Fellowship </td>
+    <td>2020</td>   
 </table>
 
 
