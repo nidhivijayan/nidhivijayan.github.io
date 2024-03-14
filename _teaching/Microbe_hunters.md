@@ -1,7 +1,7 @@
 ---
 title: "Microbe Hunters"
 collection: teaching
-type: "Workshop"
+type: "Lab"
 permalink: /teaching/Microbe_hunters
 venue: "University of Connecticut"
 date: 2019-01-01
