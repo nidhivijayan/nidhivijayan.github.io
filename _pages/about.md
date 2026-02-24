@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Nidhi Vijayan and I’m currently a PhD candidate in Molecular and Cell Biology at the University of Connecticut. 
+I am a Postdoctoral Research Fellow specializing in host–microbiome interactions, with a focus on inflammatory disease models. My research integrates multi-omics data from large, complex datasets to understand how microbial communities and host immune responses shape disease outcomes. I bridge molecular biology and computational analysis, combining RNA-seq, 16S rRNA profiling, shotgun metagenomics, and imaging-based approaches to generate mechanistic insight from systems-level data.
 
-During my doctoral studies, my research focused primarily on exploring the immune reactions of two symbiotic organs found in the Hawaiian bobtail squid: the light organ and a female-specific reproductive organ. The objective was to gain insights into how the immune system regulates varied microbiomes across different organs. I conducted analysis on gene expressions, and successfully identified the localization of host mRNA and proteins of interest, in addition to the bacteria, which is currently being documented in a forthcoming paper. Furthermore, I undertook 16S analysis of cephalopod microbiomes from various global locations, collaborating closely with cephalopod biologists to procure samples, resulting in a published paper.
+Our gut is home to many species of microbes. Our body's immune system selects for them and keeps this ecosystem in check, and in turn, the microbiome provides the host with numerous benefits. Thus it is often compared to a garden. Disruption of this balance, whether through the emergence of pathogenic “weeds” or external stressors that impair immune regulation, can lead to inflammation and disease. I am interested in understanding how this dynamic equilibrium is established and maintained, with the goal of identifying strategies to restore microbial balance and ultimately prevent or mitigate inflammatory disease.
 
-Through my experiencces, multi-tasking on various projects with collaborators I have the followiing skills:
+Through my experiences, multi-tasking on various projects with collaborators I have the followiing skills:
 •	Bulk/single-cell transcriptomics, genomics, proteomics
 •	16S, metagenomics, metaproteomics
-•	Confocal microscopy, immunofluorescence, fluorescence in situ hybridization techniques, histology
+•	Confocal microscopy, immunofluorescence, fluorescence in situ hybridization techniques
 
 
 
