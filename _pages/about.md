@@ -11,10 +11,11 @@ I am a Postdoctoral Research Fellow specializing in host–microbiome interactio
 
 Our gut is home to many species of microbes. Our body's immune system selects for them and keeps this ecosystem in check, and in turn, the microbiome provides the host with numerous benefits. Thus it is often compared to a garden. Disruption of this balance, whether through the emergence of pathogenic “weeds” or external stressors that impair immune regulation, can lead to inflammation and disease. I am interested in understanding how this dynamic equilibrium is established and maintained, with the goal of identifying strategies to restore microbial balance and ultimately prevent or mitigate inflammatory disease.
 
-Through my experiences, multi-tasking on various projects with collaborators I have the followiing skills:
-•	Bulk/single-cell transcriptomics, genomics, proteomics
-•	16S, metagenomics, metaproteomics
-•	Confocal microscopy, immunofluorescence, fluorescence in situ hybridization techniques
+Through my experiences, multi-tasking on various projects with collaborators, I have the following skills:
+
+- Bulk and single-cell transcriptomics, genomics, proteomics  
+- 16S rRNA sequencing, metagenomics, metaproteomics  
+- Confocal microscopy, immunofluorescence, fluorescence in situ hybridization (FISH)
 
 
 
